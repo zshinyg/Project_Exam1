@@ -6,6 +6,10 @@ Question2 video link: https://umkc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?
 
 Question2 code source: https://github.com/zshinyg/Project_Exam1/tree/master/Problem2
 
+Question3 video link: https://www.youtube.com/watch?v=XvPb4XManc4
+
+Question 3 code source: https://github.com/zshinyg/Project_Exam1/blob/master/Problem3/ExamProb3.py
+
 Question4 video link: https://youtu.be/XIT2rPUI2QY
 
 Question4 code source: https://github.com/zshinyg/Project_Exam1/tree/master/problem4
